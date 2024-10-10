@@ -1,0 +1,2 @@
+UM_NOME_DE_VARIAVEL="ovos"
+print(UM_NOME_DE_VARIAVEL*3)
